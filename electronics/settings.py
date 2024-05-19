@@ -146,5 +146,5 @@ MESSAGE_TAGS = {
 EMAIL_HOST = 'smtp.gmail.com'
 EMAIL_PORT = 587
 EMAIL_HOST_USER = 'useremail@example.com' # add user email address to send email
-EMAIL_HOST_PASSWORD = 'passwordgivenbygoogle' # add password received by google doing 2 factor authentication with required mail id to send.
+EMAIL_HOST_PASSWORD = 'password-given-by-google' # add password received by google doing 2 factor authentication with required mail id to send OTP.
 EMAIL_USE_TLS = True
