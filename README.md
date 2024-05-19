@@ -9,7 +9,7 @@ User Account section is provided for the email, phone and address updation. Also
 </p><br>
 
 <h3>Product Categories</h3>
-<p>Electronics ecommerce project contains 4 categories:</p><br>
+<p>Electronics ecommerce project contains 4 categories:</p>
 <ul>
   <li>Mobile</li>
   <li>Speaker</li>
