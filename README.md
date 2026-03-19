@@ -15,7 +15,7 @@ User Account section is provided for the email, phone and address updation. Also
   <li>Speaker</li>
   <li>TV's</li>
   <li>Laptops</li>
-</ul><br>
+</ul>
 
 <h3>Adding More products and categories</h3>
 <h5>Migrations</h5>
