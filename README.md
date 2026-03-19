@@ -6,7 +6,7 @@ Django e-commerce Electronics project with frontend
 <p>Technologies used : Python, Django, SMTP, HTML, CSS, Bootstrap.<br>
 Added Product Cart, Dummy Payment System, Grand Total Calculations, OTP through email and verification.
 User Account section is provided for the email, phone and address updation. Also to contact the customer service through email and Customer Order History and its details are provided.
-</p><br>
+</p>
 
 <h3>Product Categories</h3>
 <p>Electronics ecommerce project contains 4 categories:</p>
